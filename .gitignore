@@ -1,13 +1,13 @@
-# Ignore ecommerce
-ecommerce/node_modules
-ecommerce/.env
-ecommerce/package-lock.json
-# Ignore ecommerce-front
-ecommerce-front/.DS_Store
-ecommerce-front/.env.local
-ecommerce-front/.env.development.local
-ecommerce-front/.env.test.local
-ecommerce-front/.env.production.local
-ecommerce-front/npm-debug.log*
-ecommerce-front/yarn-debug.log*
-ecommerce-front/yarn-error.log*
+# # Ignore ecommerce
+# ecommerce/node_modules
+# ecommerce/.env
+# ecommerce/package-lock.json
+# # Ignore ecommerce-front
+# ecommerce-front/.DS_Store
+# ecommerce-front/.env.local
+# ecommerce-front/.env.development.local
+# ecommerce-front/.env.test.local
+# ecommerce-front/.env.production.local
+# ecommerce-front/npm-debug.log*
+# ecommerce-front/yarn-debug.log*
+# ecommerce-front/yarn-error.log*
